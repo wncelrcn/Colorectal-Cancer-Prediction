@@ -1,7 +1,7 @@
 # 📊 Colorectal Cancer Survival Prediction
 
 ## 🧾 Introduction
-This project focuses on predicting colorectal cancer patient outcomes using machine learning models. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation to assist in clinical decision-making and survival analysis.
+This project focuses on predicting colorectal cancer patient outcomes using different machine learning algorithms such as Logistic Regression, Random Forest Classifier, XGBoost, CatBoost, and Linear SVM. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation to assist in clinical decision-making and survival analysis.
 
 ---
 
