@@ -1,2 +1,2 @@
 # Colorectal-Cancer-Prediction
-A Mini Machine Learning Project that aims to predict the stage of cancer at diagnosis using the Colorectal Cancer Risk &amp; Survival Dataset.
+A Mini Machine Learning Project that aims to predict the survivability status of the patient with cancer using the Colorectal Cancer Risk & Survival Dataset.
